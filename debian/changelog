@@ -1,0 +1,12 @@
+lsstack (0.0.0-0) UNRELEASED; urgency=medium
+
+  * TODO: remove on release
+  * WIP: http://rzr.online.fr/q/snapshot#lsstack
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 01 May 2014 19:08:45 +0200
+
+lsstack (0.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 01 May 2014 19:08:40 +0200
