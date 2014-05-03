@@ -1,10 +1,14 @@
-lsstack
 *.deb
+*.o
+*~
 .*.swp
 a
+a.out
 backup-*
-*~
 debian/*.log
-debian/*.subvars
+debian/*.substvars
 debian/*/*
+debian/*/*/*
+debian/files
+lsstack
 packaging/*/*
